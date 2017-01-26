@@ -1,0 +1,24 @@
+[
+  {
+    "description": "Book",
+    "count": 1,
+    "unitPrice": 12.49,
+    "imported": false,
+    "category": "BOOKS"
+  },
+  {
+    "description": "Chocolate Bar",
+    "count": 1,
+    "unitPrice": 0.85,
+    "imported": false,
+    "category": "FOOD"
+  },
+  {
+    "description": "Music CD",
+    "count": 1,
+    "unitPrice": 14.99,
+    "imported": false,
+    "category": "OTHER_PRODUCTS"
+  }
+]
+

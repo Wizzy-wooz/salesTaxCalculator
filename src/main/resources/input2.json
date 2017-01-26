@@ -1,0 +1,18 @@
+[
+  {
+    "description": "bottle of perfume",
+    "count": 1,
+    "unitPrice": 47.50,
+    "imported": true,
+    "category": "OTHER_PRODUCTS"
+  },
+  {
+    "description": "box of chocolates",
+    "count": 1,
+    "unitPrice": 10.00,
+    "imported": true,
+    "category": "FOOD"
+  }
+]
+
+
