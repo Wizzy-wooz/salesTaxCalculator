@@ -51,9 +51,9 @@ Feel free to modify/extend the example data models above if needed.
 ## Implementation
 
 1. Sales Tax Calculator is developed using Spring Boot Framework, which includes spring-boot-starter-web and spring-boot-starter-test libraries to work with RESTful service and perform unit and integration tests.
-2. All changing properties like: basic.sales.tax, import.duty.tax, round.scale - are put in application.properties files. 
-3. To start the application you need: taxcontroller-0.0.1.jar file, which you can build via Maven.
-4. In /taxController/src/main/resources/ you can find examples of json files for testing: input1.json, input2.json, input3.json.
+2. All changing properties like: basic.sales.tax, import.duty.tax, round.scale - are put in application.properties file. 
+3. To start the application you need: salesTaxController-0.0.1.jar file, which you can build via Maven.
+4. In //salesTaxCalculator/src/main/resources you can find examples of json files for testing: input1.json, input2.json, input3.json.
 5. Using command curl -H "Accept: application/json" -H "Content-type: application/json" -X POST –d @input1.json http://localhost/taxcalculator (or using Postman application) - you can start using this application. 
 
 !!! Note that @input1.json - not enough - you should specify full path to file.
