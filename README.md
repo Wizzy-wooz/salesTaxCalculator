@@ -50,7 +50,7 @@ Feel free to modify/extend the example data models above if needed.
 
 ## Implementation
 
-1. Sales Tax Calculator is developed using Spring Boot Framework, which includes spring-boot-starter-web and spring-boot-starter-test libraries to work with RESTful service and perform unit and integration tests.
+1. Sales Tax Calculator has been developed using Spring Boot Framework, which includes spring-boot-starter-web and spring-boot-starter-test libraries to work with RESTful service and perform unit and integration tests.
 2. All changing properties like: basic.sales.tax, import.duty.tax, round.scale - are put in application.properties file. 
 3. To start the application you need: salestaxcalculator-0.0.1.jar file, which you can build via Maven.
 4. In /salesTaxCalculator/src/main/resources you can find examples of json files for testing: input1.json, input2.json, input3.json.
